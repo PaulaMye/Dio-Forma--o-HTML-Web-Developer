@@ -1,1 +1,3 @@
-Começando a escrever o readme
+Projeto da plataforma DIO
+
+Criar Uma Página Web Utilizando as Tags Aprendidas

@@ -1,0 +1,36 @@
+h1 - Introdução ao Desenvolvimento Front End
+br
+h2 - ::: Introdução ao Desenvolvimento Front End :::
+p - O desenvolvimento Front End, também conhecido como desenvolvimento de interface de usuário, é uma parte crucial da construção de websites e aplicações web. É a parte do desenvolvimento web que lida com a interação direta do usuário. O desenvolvimento Front End utiliza tecnologias como HTML, CSS e JavaScript para criar interfaces de usuário atraentes e funcionais. Neste curso, vamos abordar os conceitos fundamentais dessas três tecnologias e como elas trabalham juntas para criar a experiência do usuário na web.
+hr
+h2 - ::: O que é o Desenvolvimento Front End? :::
+p - O Desenvolvimento Front End é o aspecto do desenvolvimento de websites que lida com a criação da interface de usuário. Essa interface é onde os usuários interagem diretamente com o site ou aplicação web. O objetivo do desenvolvimento Front End é criar uma experiência de usuário intuitiva e atraente que seja fácil de usar e esteticamente agradável.
+hr
+p - Os desenvolvedores Front End usam várias tecnologias para criar essa interface de usuário. As três principais são HTML, CSS e JavaScript. HTML é usado para criar a estrutura básica de uma página web, CSS é usado para estilizar essa estrutura e JavaScript é usado para adicionar funcionalidade e interatividade à página.
+hr
+h2 - ::: HTML - Linguagem de Marcação de Hipertexto :::
+p - HTML, que significa Linguagem de Marcação de Hipertexto, é a espinha dorsal de qualquer site. É uma linguagem de marcação que é usada para estruturar o conteúdo em uma página web. Cada elemento em uma página web é representado por uma tag HTML, que define o tipo de conteúdo que o elemento contém e como ele deve ser exibido no navegador.
+hr
+p - HTML é uma linguagem de marcação, o que significa que usa tags para definir elementos. Cada tag tem um nome específico e representa um tipo específico de conteúdo. Por exemplo, a tag <h1> é usada para definir um cabeçalho de primeiro nível, enquanto a tag <p> é usada para definir um parágrafo.
+hr
+h2 - ::: CSS - Folhas de Estilo em Cascata :::
+p - CSS, ou Folhas de Estilo em Cascata, é uma linguagem de estilo que é usada para descrever a aparência de um documento escrito em HTML. CSS é usado para estilizar o HTML, permitindo que os desenvolvedores definam a cor, o tamanho, a fonte e outros aspectos visuais dos elementos HTML em uma página web.
+hr
+p - CSS é uma linguagem de estilo, o que significa que é usada para definir a aparência dos elementos HTML em uma página. CSS usa seletores para identificar os elementos HTML que devem ser estilizados e declarações para definir como esses elementos devem ser estilizados. Por exemplo, um seletor pode ser usado para identificar todos os elementos <p> em uma página, e uma declaração pode ser usada para definir a cor do texto desses elementos como azul.
+hr
+h2 - ::: JavaScript - Linguagem de Programação de Script :::
+p - JavaScript é uma linguagem de programação de script que é usada para tornar as páginas web interativas. JavaScript permite que os desenvolvedores adicionem funcionalidades a uma página web, como a capacidade de responder a cliques de botão, atualizar conteúdo dinamicamente e realizar cálculos complexos.
+hr
+p - JavaScript é uma linguagem de programação, o que significa que é usada para criar programas que controlam o comportamento de uma página web. JavaScript usa variáveis, funções, loops e outras construções de programação para manipular os elementos HTML em uma página e criar interatividade.
+hr
+p - Em resumo, o desenvolvimento Front End é uma disciplina complexa e multifacetada que exige uma compreensão sólida de várias tecnologias. No entanto, com o estudo e a prática adequados, qualquer pessoa pode aprender a se tornar um desenvolvedor Front End competente. Este curso foi projetado para fornecer a você uma base sólida em HTML, CSS e JavaScript, as três tecnologias fundamentais do desenvolvimento Front End. Ao longo deste curso, você ganhará uma compreensão profunda dessas tecnologias e aprenderá a usá-las para criar websites e aplicações web atraentes e funcionais.
+hr
+h3 - Exercício 1: Qual é o objetivo do desenvolvimento Front End?
+p - Responda a pergunta sobre o conteúdo anterior:
+hr
+p - ( A ) - Criar uma experiência de usuário intuitiva e atraente que seja fácil de usar e esteticamente agradável. 
+    ( B ) - Desenvolver a parte de trás do site que lida com o banco de dados e o servidor. 
+    ( C ) - Focar exclusivamente na programação e funcionalidade do site, ignorando o design e a experiência do usuário.
+
+
+
